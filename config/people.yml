@@ -1,0 +1,39 @@
+people:
+  -
+    name: Scout
+    household: Finch
+  -
+    name: Jem
+    household: Finch
+  -
+    name: Margaret
+    household: March
+  -
+    name: Josephine
+    household: March
+  -
+    name: Amy
+    household: March
+  -
+    name: Theodore
+    household: Laurence
+  -
+    name: Jane  
+    household: Bennet 
+  -
+    name: Elizabeth
+    household: Bennet 
+  - 
+    name: Mary 
+    household: Bennet 
+  -
+    name: Kitty
+    household: Bennet 
+  -
+    name: Charles
+    household: Bingley
+  -
+    name: Caroline
+    household: Bingley
+  
+  
