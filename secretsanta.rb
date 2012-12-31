@@ -51,5 +51,5 @@ class Person
 
 end
 
-Person.santaize('config/people.yml')
+Person.santaize('data/people.yml')
 $end
